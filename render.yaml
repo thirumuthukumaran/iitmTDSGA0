@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: exam-solve-challenge-mcp
+    name: acme-ledger-agent
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
